@@ -1,0 +1,28 @@
+body {
+    background-color: #F8E2CF;
+}
+
+a {
+    text-decoration: none;
+    border-bottom: 1px solid black;
+    color: #EC4646;
+}
+
+.fa {
+    color: #EC4646;
+}
+
+.box-center {
+    background-color: white;
+    padding: 60px 10px;
+    margin: 30px 0px;
+    border-radius: 0px;
+}
+
+.text {
+    margin: 15px;
+}
+
+.box {
+    padding: 60px 0px;
+}
